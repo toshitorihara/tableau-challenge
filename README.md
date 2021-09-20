@@ -6,7 +6,7 @@ As a new lead analyst for the [New York Citi Bike Program](https://en.wikipedia.
 * Breakdown of gender (male v. female) or subscribers (short-term v. annual), and average trip duration/distance by age.
 
 ## Submission
-A [Tableau public link](https://public.tableau.com/app/profile/toshi.torihara/viz/Tableau1_16317618840160/homework) saved in .twbx workbook foramt which includes below:
-* 4 Phenomenon Visualizations (with text analysis)
-* 1 City Official Map (with zip code data overlaid on top)
+A [Tableau public link]() saved in .twbx workbook format which includes:
+* 4 Phenomenon Visualizations (with each text analysis)
+* 1 City Official Map (with zip code data overlaid)
 * 2 Dashboards and 1 Story
