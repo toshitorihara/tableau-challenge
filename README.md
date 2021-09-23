@@ -8,7 +8,7 @@ To design a visualizations from the [Trip History Logs](https://s3.amazonaws.com
   
 
 ## Submission
-[Tableau Public workbook link](https://public.tableau.com/app/profile/toshi.torihara/viz/CitiBikeAnalytics_16323823731640/CitiBikeAnalyticsStory?publish=yes) and [.twbx file]() which includes:
+[Tableau Public workbook link](https://public.tableau.com/app/profile/toshi.torihara/viz/CitiBikeAnalytics_16323823731640/CitiBikeAnalyticsStory?publish=yes) and [.twbx file](citibike_analytics.twbx) which includes:
 * **1 Story:** Citi Bike Analytics
 * **2 Dashboards:** The Most & Least Used Citi Bike Stations
 * **1 City Official Map:** All Start Point Stations
